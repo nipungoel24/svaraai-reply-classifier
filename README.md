@@ -53,7 +53,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/nipungoel24/svaraai-reply-classifier.git
-   cd svaraai-classification
+   cd svaraai-reply-classifier
    ```
 
 2. **Create virtual environment**
