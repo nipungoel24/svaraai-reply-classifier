@@ -52,7 +52,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/svaraai-classification.git
+   git clone https://github.com/nipungoel24/svaraai-classification.git
    cd svaraai-classification
    ```
 
@@ -240,12 +240,6 @@ logging.basicConfig(level=logging.INFO)
 - [ ] Monitoring setup
 - [ ] Backup procedures established
 
-### Cloud Deployment Options
-- **AWS**: EC2, ECS, or Lambda
-- **GCP**: Cloud Run or Compute Engine  
-- **Azure**: Container Instances or App Service
-- **Heroku**: Direct deployment with Procfile
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -306,7 +300,7 @@ A: Collect more diverse training data and experiment with different model archit
 
 **Made with ❤️ by the SvaraAI Team**
 
-[![Star this repo](https://img.shields.io/github/stars/your-username/svaraai-classification?style=social)](https://github.com/your-username/svaraai-classification)
-[![Fork this repo](https://img.shields.io/github/forks/your-username/svaraai-classification?style=social)](https://github.com/your-username/svaraai-classification/fork)
+[![Star this repo](https://img.shields.io/github/stars/nipungoel24/svaraai-classification?style=social)](https://github.com/nipungoel24/svaraai-reply-classifier)
+[![Fork this repo](https://img.shields.io/github/forks/nipungoel24/svaraai-classification?style=social)](https://github.com/nipungoel24/svaraai-classification/fork)
 
 </div>
