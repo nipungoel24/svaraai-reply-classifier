@@ -52,7 +52,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nipungoel24/svaraai-classification.git
+   git clone https://github.com/nipungoel24/svaraai-reply-classifier.git
    cd svaraai-classification
    ```
 
@@ -300,7 +300,7 @@ A: Collect more diverse training data and experiment with different model archit
 
 **Made with ❤️ by the SvaraAI Team**
 
-[![Star this repo](https://img.shields.io/github/stars/nipungoel24/svaraai-classification?style=social)](https://github.com/nipungoel24/svaraai-reply-classifier)
-[![Fork this repo](https://img.shields.io/github/forks/nipungoel24/svaraai-classification?style=social)](https://github.com/nipungoel24/svaraai-classification/fork)
+[![Star this repo](https://img.shields.io/github/stars/nipungoel24/svaraai-reply-classifier?style=social)](https://github.com/nipungoel24/svaraai-reply-classifier)
+[![Fork this repo](https://img.shields.io/github/forks/nipungoel24/svaraai-reply-classifier?style=social)](https://github.com/nipungoel24/svaraai-reply-classifier/fork)
 
 </div>
