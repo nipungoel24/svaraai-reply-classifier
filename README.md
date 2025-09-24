@@ -298,7 +298,7 @@ A: Collect more diverse training data and experiment with different model archit
 
 <div align="center">
 
-**Made with ❤️ by the SvaraAI Team**
+**Made with ❤️**
 
 [![Star this repo](https://img.shields.io/github/stars/nipungoel24/svaraai-reply-classifier?style=social)](https://github.com/nipungoel24/svaraai-reply-classifier)
 [![Fork this repo](https://img.shields.io/github/forks/nipungoel24/svaraai-reply-classifier?style=social)](https://github.com/nipungoel24/svaraai-reply-classifier/fork)
